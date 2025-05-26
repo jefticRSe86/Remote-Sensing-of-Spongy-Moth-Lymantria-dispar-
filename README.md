@@ -8,4 +8,4 @@ ResearchGate paper: https://www.researchgate.net/publication/392011511_Remote_Se
 Webmap link: https://jefticrse86.github.io/Remote-Sensing-of-Spongy-Moth-Lymantria-dispar-/
 
 ![image1](https://github.com/user-attachments/assets/f85f020c-7ece-4061-a78a-b2b02833996e)
-
+Yellow polygons represent an area after the spongy moth outbreak. Landsat-8 satellite natural color RGB 4-3-2 image on 20 June, 2013 with 100% forest leaf damage represented in brown colors
