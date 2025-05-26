@@ -6,3 +6,6 @@ The Spongy Moth (Lymantria dispar) deciduous forest infestation near the towns o
 ResearchGate paper: https://www.researchgate.net/publication/392011511_Remote_Sensing_of_Spongy_Moth_Lymantria_dispar_Infestation_in_Bosnia_and_Herzegovina
 
 Webmap link: https://jefticrse86.github.io/Remote-Sensing-of-Spongy-Moth-Lymantria-dispar-/
+
+![image1](https://github.com/user-attachments/assets/f85f020c-7ece-4061-a78a-b2b02833996e)
+
